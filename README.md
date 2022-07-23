@@ -1,2 +1,2 @@
-# pwa_weather
-It is a Progressive Web Application (Weather App) made using React Js.
+# e-shop
+It is a front-end based e-commerce website made by using HTML, CSS, JavaScript and BootStrap.
